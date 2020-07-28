@@ -89,3 +89,5 @@ test/tests-plan.txt
 *.vc8.sln
 *.vc9.sln
 
+/unixem.vc140.VC.db
+/.vs
